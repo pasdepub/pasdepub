@@ -133,3 +133,4 @@ link-to.net##.countdown-page > .mb-3.text-center > .hidden-md-down > .adsbygoogl
 link-to.net##.mb-4.redirect-box
 link-to.net##div.redirect-box:nth-of-type(2)
 link-to.net##.mb-5.mt-5.text-center > .hidden-md-down > .adsbygoogle
+link-to.net##.todo-page > div.mb-3.text-center:nth-of-type(1) > .hidden-md-down > .adsbygoogle
