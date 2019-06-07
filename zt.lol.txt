@@ -102,3 +102,7 @@ ww48.zone-telechargement.lol##.col-mov-right > div > .btn-primary.btn
 ww49.zone-telechargement.lol##.col-mov-right > div > .btn-primary.btn
 ! 07/06/2019 https://ww50.zone-telechargement.lol
 ww50.zone-telechargement.lol##.col-mov-right > div > .btn-primary.btn
+! 07/06/2019 https://www.yggtorrent.ch
+www.yggtorrent.ch##.pulse.donate
+! 07/06/2019 https://www2.yggtorrent.ch
+www2.yggtorrent.ch##.pulse.donate
