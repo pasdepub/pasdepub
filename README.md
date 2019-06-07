@@ -64,4 +64,4 @@ https://greasyfork.org/scripts/4881-adsbypasser/code/AdsBypasser.user.js
 
 ZT.lol
 
-abp:subscribe?location=https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt&title=ZT.lol
+abp:subscribe?location=https://github.com/pasdepub/pasdepub/raw/master/zt.lol.txt&title=ZT.lol
