@@ -1,0 +1,5 @@
+! 07/06/2019 https://zone-telechargement.lol
+zone-telechargement.lol##.col-mov-right > div > .btn-primary.btn
+! 07/06/2019 https://www.zone-telechargement.lol
+www.zone-telechargement.lol##.col-mov-right > div > .btn-primary.btn
+! 07/06/2019 https://ww1.zone-telechargement.lol
