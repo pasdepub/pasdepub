@@ -2,9 +2,13 @@
 antipub pour tous navigateur
 
 Ublock Origin
+
 Firefox
+
 https://addons.mozilla.org/fr/firefox/addon/ublock-origin/
+
 Google Chrome, Chromium & Vivaldi
+
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 Opéra
 https://addons.opera.com/fr/extensions/details/ublock/
